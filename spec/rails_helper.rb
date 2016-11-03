@@ -1,3 +1,11 @@
+require 'codeclimate-test-reporter'
+SimpleCov.start 'rails' do
+  formatter SimpleCov::Formatter::MultiFormatter.new [
+    SimpleCov::Formatter::HTMLFormatter,
+    CodeClimate::TestReporter::Formatter
+  ]
+end
+
 # This file is copied to spec/ when you run 'rails generate rspec:install'
 ENV['RAILS_ENV'] ||= 'test'
 require File.expand_path('../../config/environment', __FILE__)

@@ -1,24 +1,8 @@
-# README
+# Unnamed
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[![Build Status](https://travis-ci.org/leonelgalan/unnamed.svg?branch=master)](https://travis-ci.org/leonelgalan/unnamed)
+[![Code Climate](https://codeclimate.com/github/leonelgalan/unnamed/badges/gpa.svg)](https://codeclimate.com/github/leonelgalan/unnamed)
+[![Issue Count](https://codeclimate.com/github/leonelgalan/unnamed/badges/issue_count.svg)](https://codeclimate.com/github/leonelgalan/unnamed)
+[![Test Coverage](https://codeclimate.com/github/leonelgalan/unnamed/badges/coverage.svg)](https://codeclimate.com/github/leonelgalan/unnamed/coverage)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+> Future greatness!
